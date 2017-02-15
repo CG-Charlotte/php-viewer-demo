@@ -7,9 +7,10 @@ echo "heelo";
 ```
 
 
-?[question quizz]
+?[question quizz](single)
 - [] bad answer
 - [] bad answer2
 - [x] good answer 
 - [x] good answer2
+
 test
