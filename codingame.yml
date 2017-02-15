@@ -5,3 +5,9 @@ plan:
   - title: Lesson 2
     statement: markdowns/lesson2.md
   
+projects:
+  main:
+    root: src
+    runner:
+      name: jeromecance/phpunit-runner
+      version: 1.0.9
