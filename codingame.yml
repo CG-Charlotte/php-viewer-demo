@@ -4,6 +4,8 @@ plan:
     statement: markdowns/lesson1.md
   - title: Lesson 2
     statement: markdowns/lesson2.md
+  - title: Lesson 3
+    statement: markdowns/lesson3.md
   
 projects:
   main:
