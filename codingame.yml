@@ -1,4 +1,5 @@
 title : My first php demo
+about: markdowns/about.md
 plan:
   - title: Lesson 1
     statement: markdowns/lesson1.md
