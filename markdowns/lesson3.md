@@ -11,4 +11,7 @@ echo "heelo";
 
 @[fix this project]({stubs:["exo2.php"], command:" --bootstrap exo2.php exo2test.php", "layout":"aside"})
 
+
+@[fix this project]({stubs:["exo2.php"], command:" --bootstrap exo2.php exo2test.php"})
+
 test
