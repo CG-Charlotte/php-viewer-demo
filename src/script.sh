@@ -1,6 +1,6 @@
 #!/bin/sh
 
-`pwd
+echo pwd
 
 echo php -S localhost:8000 -t ./www/
 
