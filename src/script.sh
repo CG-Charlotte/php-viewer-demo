@@ -1,5 +1,5 @@
 #!/bin/sh
-echo  'hello'
+
 
 
 echo php -S localhost:8000 -t www
