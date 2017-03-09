@@ -2,7 +2,7 @@
 
 echo `pwd`
 
-php -S localhost:8000 -t www
+php -S localhost:8000 -t www &
 
 
 
