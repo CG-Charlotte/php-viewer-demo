@@ -3,6 +3,6 @@
 *italic*
 
 
-@[fix this project]({stubs:["www/exo.php"], command:"/bin/sh script.sh"})
+@[fix this project]({stubs:["www/index.php"], command:"/bin/sh script.sh"})
 
 test
