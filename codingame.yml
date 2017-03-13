@@ -2,15 +2,16 @@ title : My first php demo
 about: markdowns/about.md
 plan: 
 
-
-
-
-  - title: Lesson 3
+  - title: Lesson 1
     statement: markdowns/lesson1.md
+  - title: Lesson 2
+    statement: markdowns/lesson2.md
+  - title: Lesson 3
+    statement: markdowns/lesson3.md
  
 projects:
   main:
     root: src
     runner:
-      name: php
-      version: 7.1.2-cli
+      name: phpunit/phpunit
+      version: latest

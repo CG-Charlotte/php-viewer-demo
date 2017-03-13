@@ -2,15 +2,7 @@
 
 *italic*
 
-```php
-echo "heelo";
-```
 
-
-?[question quizz](single)
-- [] bad answer
-- [] bad answer2
-- [x] good answer 
-- [x] good answer2
+@[fix this project]({stubs:["www/index.php"], command:"/bin/sh -c 'chmod +x script.sh &&  ./script.sh'"})
 
 test
